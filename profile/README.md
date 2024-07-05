@@ -10,3 +10,4 @@ Currently actively maintained profiles are:
 * [iso19139.ca.HNAP](https://github.com/metadata101/iso19139.ca.HNAP)
 * [iso19139.gemini23](https://github.com/metadata101/iso19139.gemini23)
 * [GDPR](https://github.com/metadata101/GDPR)
+* [dcat-ap.vl](https://github.com/metadata101/dcat-ap.vl)
