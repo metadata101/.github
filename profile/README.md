@@ -8,6 +8,7 @@ Currently actively maintained profiles are:
 * [iso19139.nl.geografie.1.3.1](https://github.com/metadata101/iso19139.nl.geografie.1.3.1)
 * [iso19139.nl.geografie.2.0.0](https://github.com/metadata101/iso19139.nl.geografie.2.0.0)
 * [iso19139.ca.HNAP](https://github.com/metadata101/iso19139.ca.HNAP)
+* [iso19115-3.2018.che](https://github.com/metadata101/iso19115-3.2018.che)
 * [iso19139.gemini23](https://github.com/metadata101/iso19139.gemini23)
 * [GDPR](https://github.com/metadata101/GDPR)
-* [dcat-ap.vl](https://github.com/metadata101/dcat-ap.vl)
+* [dcat-ap](https://github.com/metadata101/dcat-ap)
